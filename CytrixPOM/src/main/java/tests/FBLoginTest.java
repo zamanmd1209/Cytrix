@@ -21,6 +21,8 @@ public class FBLoginTest extends TestBase{
 	 homepage.clickOnProfileDropdown();
 	 homepage.verifyLoggedInUserNameText();
 	 homepage.clickOnLogoutLink(); 
+	 
+	 //new line added
 	 }
 	 
 	}
